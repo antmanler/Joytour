@@ -1,0 +1,171 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-color:#E4E4E4;
+    background-image: url("img/background.jpeg");
+    background-attachment:fixed;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    text-transform:uppercase;
+    width:100%;
+}
+
+ul {
+    list-style:none;margin-left:-10px;
+}
+ul li {
+    height:76px;font-family:黑体;font-size:36px;color:#C9C9C9;padding-top:20px;
+}
+
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+
+#jt_container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow-x:hidden;
+    border: 1px solid black;
+}
+
+#jt_mask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#jt_div1 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#jt_div2 {
+    width: 100%;
+    position: absolute;
+    left: 100%;
+    height: 100%;
+}
+
+.jt_wrapper {
+    position:absolute; 
+    z-index:-1;
+    bottom:5px; 
+    left:0;
+    width:100%;
+    overflow:auto;
+}
+
+#jt_begin_wrapper {
+    top:140px;
+}
+
+#jt_shareflip_wrapper {
+    top:135px;
+    bottom:5px;
+    z-index:1;
+}
+
+#jt_cityinfo_wrapper {
+    top:80px;
+    bottom:5px;
+    z-index:1;
+}
+
+#jt_profile_wrapper {
+    top:380px;
+    bottom:0px;
+    z-index:1;
+}
+
+#jt_place_wrapper {
+    top:80px;
+    bottom:0px;
+    z-index:1;
+}
+
+#jt_place_detail_wrapper {
+    top:440px;
+    bottom:0px;
+    z-index:1;
+}
+
+#jt_place_info_wrapper {
+    top:440px;
+    bottom:0px;
+    z-index:1;
+}
+
+#jt_reply_wrapper {
+    top:80px;
+    bottom:89px;
+    padding:0;
+    z-index:0;
+}
+
+#jt_float_edit_btn {
+    float:left;
+    position:absolute;
+    z-index:2;
+    top:820px;
+    left:15px;
+    opacity:0.8;
+}
+
+#jt_record_container{
+    position:absolute;z-index:-1;top:0px;
+}
+
+/*#jt_sidebar{width:412px; height:960px; background-color:#565656}
+#jt_sidebar div{width:412px; height:130px; background-color:#717171; padding-top:25px}
+#jt_sidebar div hr{height:1px; color:#C9C9C9}
+#jt_sidebar div table{margin-left:30px; height:130px}
+#jt_sidebar-top img{width:80px; height:80px}
+#jt_sidebar-toptitle {padding-left:30px}*/
+.jt_menu-top {
+    color:#C9C9C9;font-family:黑体;font-size:36px;font-weight:bold
+}

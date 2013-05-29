@@ -1,0 +1,235 @@
+<style type="text/css">
+.jt_body{width:640px; height:920px; background-color:#E3E2DC}
+.jt_topbar{width:640px; height:80px; background-image:url('img/top.png'); background-repeat:no-repeat}
+.jt_topbar-leftbtn{width:120px; height:80px; border-right:solid 1px #CBCAC7}
+.jt_topbar-leftbtn img{margin-left:40px; margin-top:5px;}
+.jt_topbar-title{width:400px}
+.jt_topbar-title div{margin-top:5px}
+.jt_topbar-title div font{font-family:黑体; font-size:40px; font-weight:bold; color:#6BCBCA}
+.jt_topbar-title div img{margin-left:20px}
+.jt_topbar-rightbtn{width:120px; height:80px; border-left:solid 1px #CBCAC7}
+.jt_topbar-rightbtn img{margin-left:40px; margin-top:5px;}
+.jt_begin-column{width:640px;}
+.jt_begin-column-table tr{background:#6BCBCA}
+.jt_begin-column-text font{font-family:黑体; font-size:30px; font-weight:bold; color:#FFFFFF}
+.jt_begin-column-tr-empty{width:1px; background:#E3E2DC}
+.jt_begin-roller table{margin-top:5px}
+.jt_begin-place{width:282px; height:452px; background-image:url('img/kuang_bg.png'); background-repeat:no-repeat}
+.jt_begin-place-cover{width:280px; height:384px; background-repeat:no-repeat}
+.jt_begin-place-tilte{height:66px; margin-top:10px; padding-left:12px; text-align:left}
+.jt_begin-place-tilte font{font-family:黑体; font-size:30px; font-weight:bold; color:#000000}
+.jt_begin-place-td-empty{width:5px;}
+.jt_begin-place-reply{width:300px; height:452px; background-image:url('img/kuang.png'); background-repeat:no-repeat; padding-left:20px}
+.jt_begin-place-reply div{height:50px; font-size:20px; color:#666666; text-align:left; padding:2px 10px 3px 10px;}
+.jt_begin-place-reply img{width:260px; height:150px; margin-left:6px; margin-top: 10px}
+
+#jt_filter{width:640px; margin-top:70px; z-index:1; position:absolute; opacity:0.95}
+
+.shilinyeshi{background-image:url('img/img_01.png')}
+.taibei101{background-image:url('img/img_04.png')}
+.chengpinshudian{background-image:url('img/begin_3_1.png')}
+.beitouwenquan{background-image:url('img/begin_4_1.png')}
+.huashanyiwenzhongxin{background-image:url('img/begin_5_1.png')}
+.raohejieyeshi{background-image:url('img/begin_6_1.png')}
+
+.shilinyeshi-loc{background-image:url('img/nearby_4.png')}
+.taibei101-loc{background-image:url('img/nearby_3.png')}
+.chengpinshudian-loc{background-image:url('img/nearby_2.png')}
+.raohejieyeshi-loc{background-image:url('img/nearby_1.png')}
+
+</style>
+
+<html>
+<head>
+  <meta charset="utf-8"/>
+</head>
+
+<body>
+
+  <!-- navi -->
+  <div class="jt_body" id="jt_body">
+
+   <div class="jt_topbar" id="jt_topbar">
+     <table cellpadding="0" cellspacing="0" border="0">
+       <tr>
+         <td class="jt_topbar-leftbtn" id="jt_btn_menu">
+           <img src="img/menu.png" border="0"/>
+         </td>
+         <td class="jt_topbar-title" align="center">
+           <div>
+             <font id="jt_topbar_title">台　北</font>
+             <img id="jt_btn_filter" src="img/jobbox.png"/>
+           </div>
+         </td>
+         <td class="jt_topbar-rightbtn">
+           <img id="jt_btn_home_or_nearby" src="img/nearby.png" border="0"/>
+         </td>
+       </tr>
+     </table>
+   </div>
+
+   <!-- menu -->
+   <div id="jt_main_menu" align="center">
+     <table class="jt_begin-column-table" width="640" height="60" cellpadding="0" cellspacing="0" border="0">
+       <tr align="center">
+         <td class="jt_begin-column-text" id="jt_btn_place"><font>地　方</font></td>
+         <td class="jt_begin-column-tr-empty"></td>
+         <td class="jt_begin-column-text" id="jt_btn_comment"><font>留　言</font></td>
+       </tr>
+     </table>
+
+     <div id="jt_begin_wrapper" class="jt_wrapper">
+      <div class="jt_begin-roller" id="scroller">
+
+        <!-- 士林夜市 -->
+       <table width="586" align="center" cellpadding="0" cellspacing="0" border="0">
+         <tr>
+           <td class="jt_begin-place">
+             <div class="jt_begin-place-cover jt_has_nearby" data-nearby="shilinyeshi" data-goto="./placedetail1.html"> </div>
+             <div class="jt_begin-place-tilte">
+               <font>士林夜市</font>
+             </div>
+           </td>
+           <td class="jt_begin-place-td-empty"> </td>
+           <td class="jt_begin-place-reply" valign="top">
+             <img src="img/img_02.png" class="jt_begin-reply" data-goto="./reply_1.html"/>
+             <div>芋圆!!北京吃的鲜芋仙神⻢的早不在了!!</div>
+             <img src="img/img_03.png"/>
+             <div>超超超级好吃哟!!!⼒力荐</div>
+           </td>
+         </tr>
+       </table>
+
+       <!-- 台北101 -->
+       <table width="586" align="center" cellpadding="0" cellspacing="0" border="0">
+         <tr>
+           <td class="jt_begin-place">
+             <div class="jt_begin-place-cover jt_has_nearby" data-nearby="taibei101" data-goto="./placedetail3.html"> </div>
+             <div class="jt_begin-place-tilte">
+               <font>台北101</font>
+             </div>
+           </td>
+           <td class="jt_begin-place-td-empty"> </td>
+           <td class="jt_begin-place-reply" valign="top">
+             <img src="img/begin_2_2.png" class="jt_begin-reply" data-goto="./reply_2.html"/>
+             <div>空⽓好景⾊美,⼩家伙还喜欢卖萌!!嘿嘿</div>
+             <img src="img/begin_2_3.png"/>
+             <div>⻦瞰台北!!爽!!</div>
+           </td>
+         </tr>
+       </table>
+
+       <!-- 诚品书店 -->
+       <table width="586" align="center" cellpadding="0" cellspacing="0" border="0">
+         <tr>
+           <td class="jt_begin-place">
+             <div class="jt_begin-place-cover jt_has_nearby" data-nearby="chengpinshudian" data-goto="./placedetail2.html"> </div>
+             <div class="jt_begin-place-tilte">
+               <font>诚品书店</font>
+             </div>
+           </td>
+           <td class="jt_begin-place-td-empty"> </td>
+           <td class="jt_begin-place-reply" valign="top">
+             <img src="img/begin_3_2.png" class="jt_begin-reply" data-goto="./reply_3.html"/>
+             <div>誠品書店符合我對書店的一切想象。</div>
+             <img src="img/begin_3_3.png"/>
+             <div>看着⼀排排的原版书,差点失禁了,怎么治。</div>
+           </td>
+         </tr>
+       </table>
+
+       <!-- 北投温泉 -->
+       <table class="jt_none_nearby" width="586" align="center" cellpadding="0" cellspacing="0" border="0">
+         <tr>
+           <td class="jt_begin-place">
+             <div class="jt_begin-place-cover beitouwenquan"> </div>
+             <div class="jt_begin-place-tilte">
+               <font>北投温泉</font>
+             </div>
+           </td>
+           <td class="jt_begin-place-td-empty"> </td>
+           <td class="jt_begin-place-reply" id="jt_btn_reply" valign="top">
+             <img src="img/begin_4_2.png"/>
+             <div>清新的空⽓⾥全是臭鸡蛋味闻起来真玄幻。</div>
+             <img src="img/begin_4_3.png"/>
+             <div>超级舒糊~</div>
+           </td>
+         </tr>
+       </table>
+
+       <!-- 华山艺文中心 -->
+       <table class="jt_none_nearby" width="586" align="center" cellpadding="0" cellspacing="0" border="0">
+         <tr>
+           <td class="jt_begin-place">
+             <div class="jt_begin-place-cover huashanyiwenzhongxin"> </div>
+             <div class="jt_begin-place-tilte">
+               <font>华山艺文中心</font>
+             </div>
+           </td>
+           <td class="jt_begin-place-td-empty"> </td>
+           <td class="jt_begin-place-reply" valign="top">
+             <img src="img/begin_5_2.png"/>
+             <div>最近在台北市,以前的⼯厂改装艺术地点很流⾏。</div>
+             <img src="img/begin_5_3.png"/>
+             <div>以前的啤酒⼯厂,现在变成了⽂艺⻘年所喜欢的...</div>
+           </td>
+         </tr>
+       </table>
+
+       <!-- 饶河街夜市 -->
+       <table width="586" align="center" cellpadding="0" cellspacing="0" border="0">
+         <tr>
+           <td class="jt_begin-place">
+             <div class="jt_begin-place-cover jt_has_nearby" data-nearby="raohejieyeshi" data-goto="./placedetail.html"> </div>
+             <div class="jt_begin-place-tilte">
+               <font>饶河街夜市</font>
+             </div>
+           </td>
+           <td class="jt_begin-place-td-empty"> </td>
+           <td class="jt_begin-place-reply" valign="top">
+             <img src="img/begin_6_2.png" class="jt_begin-reply" data-goto="./reply.html"/>
+             <div>夜市⼊口处的胡椒饼,被HOSTEL⼩小帅哥强烈推荐了</div>
+             <img src="img/begin_6_3.png"/>
+             <div>台湾的⽜肉⾯都是量这么⾜这么⾜......拇指!</div>
+           </td>
+         </tr>
+       </table>
+
+     </div>
+   </div>
+   <div>
+     <img id="jt_float_edit_btn" src="img/record.png"/>
+     <div id="jt_record_container">
+     </div>
+   </div>
+ </div>
+</div>
+
+<div id="jt_filter" align="center"><img src="img/filter_01.png"/></div>
+
+<!-- side bar -->
+  <div id="jt_sidebar" style="width:412px;height:920px;background-color:#565656">
+    <div style="width:412px;height:130px;background-color:#717171;padding-top:25px">
+      <table id="jt_menu_profile" cellpadding="0" cellspacing="0" border="0" style="margin-left:30px;height:130px">
+        <tr>
+          <td><img src="img/user_profile.png" style="width:80px;height:80px"/></td>
+          <td style="padding-left:30px"><font class="jt_menu-top">用户昵称</font></td>
+        </tr>
+      </table>
+      <ul>
+        <li id="jt_menu_home">首页</li>
+        <li id="jt_menu_record">旅程记录</li>
+        <li id="jt_menu_favourplace">收藏地方</li>
+        <li id="jt_menu_history">旅行历史</li>
+        <li id="jt_menu_reply">回应</li>
+      </ul>
+      <hr style="height:1px;color:#C9C9C9"/>
+      <ul>
+        <li>账户管理</li>
+        <li>注销</li>
+      </ul>
+    </div>
+  </div>
+
+</body>
+</html>

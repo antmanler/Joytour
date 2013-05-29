@@ -1,0 +1,1100 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"background-i",
+				"background-image:   (property)"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ip",
+				"ip4frame"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"setup",
+				"setupCityinfo  (function)"
+			],
+			[
+				"padding",
+				"padding-right:   (property)"
+			],
+			[
+				"t",
+				"top:   (property)"
+			],
+			[
+				"nearby",
+				"nearby"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-bottom:   (property)"
+			],
+			[
+				"set",
+				"setupMain  (function)"
+			],
+			[
+				"setupPlace",
+				"setupPlaceFavour"
+			],
+			[
+				"fad",
+				"fadeOut  (function)"
+			],
+			[
+				"hdi",
+				"hide  (function)"
+			],
+			[
+				"pa",
+				"padding:   (property)"
+			],
+			[
+				"o",
+				"onOpen  (variable)"
+			],
+			[
+				"cl",
+				"click  (function)"
+			],
+			[
+				"sidebar",
+				"sidebar_open"
+			],
+			[
+				"hid",
+				"hide  (function)"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"d",
+				"dumps  (function)"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"gF",
+				"gFrameBufferSize"
+			],
+			[
+				"sn",
+				"snap"
+			],
+			[
+				"ca",
+				"callback_start"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"io",
+				"ioloop"
+			],
+			[
+				"snap",
+				"snap_delay"
+			],
+			[
+				"au",
+				"audioFx  (variable)"
+			],
+			[
+				"app",
+				"appendChild  (function)"
+			],
+			[
+				"_ini",
+				"_enableMirroIO  (function)"
+			],
+			[
+				"s",
+				"snap_complete  (variable)"
+			],
+			[
+				"mir",
+				"mirrorEvents  (namespace)"
+			],
+			[
+				"cp-c",
+				"cp-countdown"
+			],
+			[
+				"cp-",
+				"cp-countdown"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"re",
+				"request  (variable)"
+			],
+			[
+				"user",
+				"user_agent	CI - Get user agent"
+			],
+			[
+				"log",
+				"logging"
+			],
+			[
+				"w",
+				"warning  (function)"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"ov",
+				"overflow:   (property)"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"as",
+				"assert"
+			],
+			[
+				"p",
+				"PeriodicCallback  (class)"
+			],
+			[
+				"i",
+				"ioloop"
+			],
+			[
+				"old",
+				"old_dict"
+			],
+			[
+				"new",
+				"new_dict"
+			],
+			[
+				"__du",
+				"__duid_slot__"
+			],
+			[
+				"set_c",
+				"set_close_callback"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"__",
+				"__duid_slot__  (variable)"
+			],
+			[
+				"ra",
+				"raise"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"padding-",
+				"padding-left:   (property)"
+			],
+			[
+				"Te",
+				"TEMPLATE_PATH"
+			],
+			[
+				"wav",
+				"wave_tmp"
+			],
+			[
+				"mp",
+				"mp3len"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
+				"date",
+				"datetime  (class)"
+			],
+			[
+				"wr",
+				"write_mp3"
+			],
+			[
+				"mi",
+				"mirror_time"
+			],
+			[
+				"cchirp",
+				"cchirpCode"
+			],
+			[
+				"m",
+				"mongodb"
+			],
+			[
+				"W",
+				"WxWeatherHandler"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"url",
+				"urllib"
+			],
+			[
+				"to",
+				"toc"
+			],
+			[
+				"g",
+				"gLookup"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"max",
+				"maxpos"
+			],
+			[
+				"temp",
+				"tempdata"
+			],
+			[
+				"ma",
+				"maxpos"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"mem",
+				"memcpy"
+			],
+			[
+				"gs",
+				"gSegmentStride"
+			],
+			[
+				"window",
+				"window_array"
+			],
+			[
+				"im",
+				"img_p"
+			],
+			[
+				"rea",
+				"real_p"
+			],
+			[
+				"__c",
+				"__call__"
+			],
+			[
+				"n",
+				"nOver2"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"de",
+				"defined"
+			],
+			[
+				"cdo",
+				"codewords"
+			],
+			[
+				"en",
+				"encode_rs"
+			],
+			[
+				"f",
+				"float  (class)"
+			],
+			[
+				"wave",
+				"wave_data"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"Sp",
+				"Sprint	string ƒ"
+			],
+			[
+				"prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"imp",
+				"import"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/index_web.html",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/main.html",
+			"settings":
+			{
+				"buffer_size": 1741,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/begin.html",
+			"settings":
+			{
+				"buffer_size": 9345,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/css/index.css",
+			"settings":
+			{
+				"buffer_size": 3698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 1284,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/index.js",
+			"settings":
+			{
+				"buffer_size": 24378,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/cythonbuild.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packe",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"ssc",
+				"Set Syntax: Cython"
+			],
+			[
+				"pacu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss",
+				"Set Syntax: C"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"ssg",
+				"Set Syntax: Go"
+			],
+			[
+				"env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Build"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 187.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/comment.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/place.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/cityinfo.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/profile.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/share_flip.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/tour.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/qr.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/city.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/js/index.js",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/share.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/reply_3.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placedetail3.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placecomment_3.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placedetail2.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/begin.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placedetail.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/reply_2.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placecomment.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/reply_1.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placecomment_1.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placedetail1.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/main.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/placeinfo.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/index.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/favourplace.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/record.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/reply.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/history.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/spec.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/app-UI/samples/01 - viewnavigator/01 - basic/index.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/js/iscroll.js",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/css/jt_sidebar.css",
+		"/Users/Antmanler/Documents/Projects/Joytour/src/www/js/slidingview/slidingview.js",
+		"/Users/Antmanler/Downloads/web/profile.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/iscroll/examples/simple/index.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/app-UI/samples/03 - slidingView/04 - oridomi/index.html",
+		"/Users/Antmanler/Documents/Projects/Joytour/app-UI/samples/03 - slidingView/03 - swipeview/index.html",
+		"/Users/Antmanler/OpenSourceLibrary/job-online/README.md",
+		"/Users/Antmanler/OpenSourceLibrary/job-online/public/job-apply/main.js",
+		"/Users/Antmanler/OpenSourceLibrary/job-online/views/layout.jade",
+		"/Users/Antmanler/OpenSourceLibrary/job-online/routes/index.js",
+		"/Users/Antmanler/OpenSourceLibrary/job-online/npm-debug.log",
+		"/Users/Antmanler/OpenSourceLibrary/job-online/package.json",
+		"/Users/Antmanler/OpenSourceLibrary/job-online/app.js",
+		"/Volumes/untitled/lichee/buildroot/scripts/build.sh",
+		"/Volumes/untitled/lichee/buildroot/scripts/build_sun4i_crane.sh",
+		"/Volumes/untitled/lichee/buildroot/scripts/build_sun4i.sh",
+		"/Volumes/untitled/lichee/buildroot/build.sh",
+		"/Volumes/untitled/lichee/linux-3.0/build.sh",
+		"/Volumes/at serv01/dev/www/weixin/MirrorHandlers.py",
+		"/Users/Antmanler/Desktop/looper.py",
+		"/Volumes/at serv01/dev/cchirpsrv/cchirpserver.py",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+		"/Volumes/at raspi/proj/looper/cchirpear",
+		"/Users/Antmanler/Applications/adt/eclipse/Eclipse.app/Contents/Info.plist",
+		"/Users/Antmanler/Desktop/1.txt",
+		"/Users/Antmanler/Applications/adt/ndk/samples/native-audio/jni/native-audio-jni.c",
+		"/Users/Antmanler/Documents/android/CearApp/src/com_iamirror_exp_Cear.h",
+		"/Users/Antmanler/Documents/android/android-audiotest/jni/opensl_io3.c",
+		"/Users/Antmanler/Documents/android/CearApp/build_fftw.sh",
+		"/Users/Antmanler/Documents/android/android-audiotest/jni/Application.mk",
+		"/Users/Antmanler/Documents/android/CearApp/jni/cchirp/Android.mk",
+		"/Users/Antmanler/Documents/android/CearApp/jni/fftw3/Android.mk",
+		"/Users/Antmanler/Documents/android/CearApp/jni/fftw3/lib/pkgconfig/fftw3.pc",
+		"/Users/Antmanler/Applications/adt/ndk/samples/module-exports/jni/Android.mk",
+		"/Users/Antmanler/Applications/adt/ndk/samples/two-libs/jni/Android.mk",
+		"/Users/Antmanler/Documents/android/CearApp/build.sh",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/Antmanler/Applications/adt/ndk/samples/native-audio/jni/Android.mk",
+		"/Users/Antmanler/Applications/adt/ndk/samples/native-activity/jni/Android.mk",
+		"/Users/Antmanler/Documents/android/FFTWexp/build.sh",
+		"/Users/Antmanler/Documents/android/FFTWexp/jni/fftw3/Android.mk",
+		"/Users/Antmanler/Documents/android/FFTWexp/jni/cchirp/Android.mk",
+		"/Users/Antmanler/Documents/android/FFTWexp/jni/Android.mk",
+		"/Users/Antmanler/Applications/adt/ndk/samples/san-angeles/jni/Android.mk",
+		"/Users/Antmanler/Documents/android/FFTWexp/jni/Adnroid.mk",
+		"/Users/Antmanler/Applications/adt/ndk/samples/hello-neon/jni/Android.mk",
+		"/Users/Antmanler/Documents/android/FFTWexp/jni/cchirp/cchirp_dec.c",
+		"/Users/Antmanler/Documents/android/FFTWexp/jni/ccear/Android.mk",
+		"/Users/Antmanler/Documents/android/fftw-3.3.3/config.log",
+		"/Applications/Balsamiq Mockups.app/Contents/Info.plist",
+		"/Users/antmanler/Desktop/MicroMessenger.app/LBSClaimerViewController.nib",
+		"/Users/Antmanler/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/activity_main.xml",
+		"/Volumes/at raspi/proj/cchirp/src/ear_service.py",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Volumes/at serv01/dev/www/weixin/appstatic/css/jplayer/circle.skin/circle.player.css",
+		"/Volumes/at serv01/dev/www/weixin/appstatic/js/circle.player.js",
+		"/Volumes/at serv01/dev/www/weixin/templates/base.html",
+		"/Volumes/at serv01/dev/www/weixin/appstatic/css/iamirror.css",
+		"/Users/Antmanler/OpenSourceLibrary/bootstrap-notify/examples/index.html",
+		"/Volumes/at serv01/dev/www/weixin/WxHandlers.py",
+		"/Users/Antmanler/Documents/aiwant/practicecase/3rdparty/nsound-0.8.2/src/examples/dynamic_filter.py",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/mathutils.c",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/rs.c",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/test.py",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/rs.h",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/cchirp_enc.c",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/setup.py",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/User/cythonbuild.sublime-build",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/cybuild.sublime-build",
+		"/Users/Antmanler/Documents/aiwant/practicecase/cchirp/cchirp.sublime-project",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/Antmanler/Documents/aiwant/practicecase/rs.c",
+		"/Users/Antmanler/Documents/aiwant/practicecase/test_rs.c",
+		"/Users/Antmanler/Documents/aiwant/practicecase/rs.h",
+		"/Users/Antmanler/Documents/aiwant/practicecase/sndrec.py",
+		"/Users/Antmanler/Documents/aiwant/pyaiwant_env/lib/python2.7/site-packages/zfec/rs.c",
+		"/Users/Antmanler/Documents/aiwant/practicecase/output2.wav",
+		"/Users/Antmanler/Documents/aiwant/practicecase/rot13.go",
+		"/Users/Antmanler/Documents/aiwant/.codeintel/config",
+		"/Users/Antmanler/Documents/aiwant/practicecase/sqrt.go",
+		"/Users/Antmanler/Documents/Projects/aiwant/practicecase/rot13.go",
+		"/Users/Antmanler/Documents/Projects/aiwant/practicecase/sqrt.go",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Antmanler/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"jt_btn_back",
+			"gt_btn_goto_main",
+			"font-size:18px",
+			"loc",
+			"id=\"jt_btn_place_detail\"",
+			"jt_being-reply",
+			"setupReply",
+			"id=\"jt_btn_reply\"",
+			"jt_btn_reply",
+			"大夜市",
+			"id=\"jt_btn_place_detail\"",
+			"jt_btn_reply",
+			"setupPlaceComment",
+			"jt_",
+			"btn",
+			"setupPlaceDetail",
+			"jt_begin-place-comment",
+			"jt_body12",
+			"class",
+			"jt_body3divtabletr2",
+			"jt_body3divtabletr1",
+			"jt_body3",
+			"jt_body2",
+			"jt_body1221tabletr42",
+			"jt_begin-place-tilte",
+			"jt_body1221tabletr41",
+			"jt_begin-place-cover",
+			"jt_body1221tabletr41",
+			"jt_begin-place-cover",
+			"jt_body1221tabletr41",
+			"jt_body1221tabletr4",
+			"jt_body1221tabletr3",
+			"jt_body1221tabletr2",
+			"jt_body1221tabletr12",
+			"jt_body1221tabletr11",
+			"jt_begin-place-cover",
+			"jt_body1221tabletr12",
+			"jt_body1221tabletr1",
+			"jt_body1221",
+			"jt_body121tr2",
+			"jt_body121tr1",
+			"jt_body121",
+			"jt_begin-colomn",
+			"colomn",
+			"jt_body121",
+			"jt_begin-colmn",
+			"jt_begin",
+			"jt_body12",
+			"jt_body11tabletr3",
+			"jt_body11tabletr2",
+			"jt_body11tabletr1",
+			"jt_body11",
+			"jt_body1",
+			"setupBegin",
+			"initialize",
+			"50",
+			"23px",
+			"setupPlaceComment",
+			"23px",
+			"setupProfile",
+			"console",
+			"setupHistory",
+			"setupSidebar",
+			"23px",
+			"250",
+			"0.2s",
+			"div0",
+			"div2",
+			"div1",
+			"div0",
+			"style=\"position:relative\"",
+			"console",
+			"offsetHeight",
+			"scrollerH",
+			"minScrollY",
+			"offsetHeight",
+			"scrollerH",
+			"maxScrollY",
+			"height",
+			"23px",
+			"background",
+			"one",
+			"div",
+			"oriDomi",
+			"callback",
+			"gestureStarted",
+			"snapToPosition",
+			"font_menu",
+			"jt_menu_profile",
+			"jt_",
+			"updateBasedOnTouchPoints",
+			"unbindEvents",
+			"sidebar",
+			"slidingview_wrapper",
+			"../../../src",
+			"quiet_cmd_uimage",
+			"cmd_uimage",
+			"MKIMAGE",
+			"KERN_VER",
+			"make",
+			"port",
+			"cchirpCode",
+			"iMirrorConn",
+			"obdConn",
+			"pubsock",
+			"ReqPort",
+			"PubPort",
+			"ALPHABET",
+			"性关系",
+			"性",
+			"怀孕",
+			"大姨妈",
+			"第一次",
+			"做爱",
+			"爱爱",
+			"老婆",
+			"CC_F",
+			"inputBuffer",
+			"bqRecorderCallback",
+			"RECORDER_FRAMES",
+			"Enqueue",
+			"inputBuffer",
+			"outchannels",
+			"p->time",
+			"inrb",
+			"android_AudioIn",
+			"CONVMYFLT",
+			"GRAIN"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"师大夜市",
+			"jt_begin-place-reply"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index_web.html",
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								763
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/main.html",
+					"settings":
+					{
+						"buffer_size": 1741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/begin.html",
+					"settings":
+					{
+						"buffer_size": 9345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1231,
+								1231
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/css/index.css",
+					"settings":
+					{
+						"buffer_size": 3698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2471,
+								2471
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 762.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/index.html",
+					"settings":
+					{
+						"buffer_size": 1284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1267,
+								1267
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/js/index.js",
+					"settings":
+					{
+						"buffer_size": 24378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16853,
+								16853
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6073.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-source-output":
+	{
+		"height": 88.0
+	},
+	"output.exec":
+	{
+		"height": 222.0
+	},
+	"output.git":
+	{
+		"height": 157.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ca",
+				"CausticCamera.py"
+			],
+			[
+				"s",
+				"shwave.py"
+			],
+			[
+				"no",
+				"note.py"
+			],
+			[
+				"rs.c",
+				"practicecase/rs.c"
+			],
+			[
+				"rs",
+				"practicecase/rs.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Antmanler/Documents/aiwant/aiwant.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
